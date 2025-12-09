@@ -11,8 +11,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Faizan-68&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/faizanaliofficial?style=for-the-badge)
-### 📊 GitHub Stats:
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan-68&show_icons=true&theme=radical)
+
+
 
 
 
