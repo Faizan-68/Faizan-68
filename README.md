@@ -6,6 +6,12 @@
 ### 🛠 Tech Stack:
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=faizanaliofficial&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/faizanaliofficial?style=for-the-badge)
+### 📊 GitHub Stats:
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanaliofficial&show_icons=true&theme=radical)
+
+
 
 <!--
 **Faizan-68/Faizan-68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
